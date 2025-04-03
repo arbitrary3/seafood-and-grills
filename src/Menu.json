@@ -1,0 +1,167 @@
+[
+    {
+        "name": "Pampano with Garlic",
+        "category": "meal",
+        "description": "Marinated, pan-fried pampano topped with fried garlic and chopped spring onion.",
+        "price": 550,
+        "timesOrdered": 50,
+        "timesOrderedWeek": 20,
+        "timesOrderedToday": 5,
+        "image": "pampano_with_garlic.jpg",
+        "link": "https://loveasia.co.nz/products/m20-crunchy-golden-pampano-fish-served-with-garlic-fish-sauce"
+    },
+    {
+        "name": "Baby Squid in Olive Oil",
+        "category": "meal",
+        "description": "Baby squid sauteed in olive oil and seasoned with garlic and calamansi, topped with garlic chips and chopped spring onion.",
+        "price": 355,
+        "timesOrdered": 40,
+        "timesOrderedWeek": 10,
+        "timesOrderedToday": 2,
+        "image": "baby_squid_in_olive_oil.webp",
+        "link": "https://culinarybite.com/articles/delightful-recipe-baby-squid-olive-oil/"
+    },
+    {
+        "name": "Crispy Hito with Mangga Salad",
+        "category": "meal",
+        "description": "Boneless fried hito topped with mangga salad, wansoy, and sili.",
+        "price": 495,
+        "timesOrdered": 38,
+        "timesOrderedWeek": 12,
+        "timesOrderedToday": 5,
+        "image": "crispy_hito_with_manggo_salad.png",
+        "link": "https://mesarestaurant.ph/menu_categories/seafood/e"
+    },
+    {
+        "name": "Grilled Large Squid Stuffed with Ground Pork",
+        "category": "meal",
+        "description": "Deep-fried large squid stuffed with ground pork, served with savory sauce.",
+        "price": 115,
+        "timesOrdered": 33,
+        "timesOrderedWeek": 10,
+        "timesOrderedToday": 2,
+        "image": "grilled_large_squid_with_stuffed_ground_pork.jpg",
+        "link": "https://asianinspirations.com.au/recipes/stuffed-squid-with-pork-mince/"
+    },
+    {
+        "name": "Bangus Belly Bistek Style",
+        "category": "meal",
+        "description": "Marinated boneless bangus braised in soya-calamansi, topped with onion rings and chopped spring onion.",
+        "price": 455,
+        "timesOrdered": 32,
+        "timesOrderedWeek": 2,
+        "timesOrderedToday": 1,
+        "image": "bangus_belly_bistek_style.jpg",
+        "link": "https://www.youtube.com/watch?v=p9oj__T-gXU"
+    },
+    {
+        "name": "Salted Egg River Shrimp",
+        "category": "meal",
+        "description": "River shrimp sauteed in salted egg yolk and light soya with wansoy, butter, sili, sugar, and lime juice.",
+        "price": 410,
+        "timesOrdered": 28,
+        "timesOrderedWeek": 2,
+        "timesOrderedToday": 0,
+        "image": "salted_egg_river_shrimp.jpg",
+        "link": "https://crabsdelivery.com.sg/product/salted-egg-prawn/"
+    },
+    {
+        "name": "Crispy Tilapia with Four Sauces",
+        "category": "meal",
+        "description": "Breaded and deep-fried boneless tilapia served with four different sauces: Honey Bagoong, Sweet Chili, Spicy Vinegar, and Pinoy-style dip.",
+        "price": 525,
+        "timesOrdered": 28,
+        "timesOrderedWeek": 1,
+        "timesOrderedToday": 0,
+        "image": "crispy_tilapia_with_four_sauces.jpg",
+        "link": "https://www.angsaraprecipes.com/fried-tilapia-tomato-sauce-recipe/"
+    },
+    {
+        "name": "Fresh Strawberry Chiboust",
+        "category": "dessert",
+        "description": "A classic French-style cheesecake topped with fresh strawberies.",
+        "price": 2455,
+        "timesOrdered": 20,
+        "timesOrderedWeek": 2,
+        "timesOrderedToday": 1,
+        "image": "fresh_strawberry_chiboust.jpg",
+        "link": "https://bizu.ph/collections/chiboust"
+    },
+    {
+        "name": "Sugarless Naomi Cake",
+        "category": "dessert",
+        "description": "Sugarless milk combined with dark chocolate mousse spread between layers of cake, sprayed with cocoa liqueur.",
+        "price": 995,
+        "timesOrdered": 20,
+        "timesOrderedWeek": 2,
+        "timesOrderedToday": 1,
+        "image": "sugarless_naomi_cake.jpg",
+        "link": "https://bizu.ph/collections/sugar-free-desserts"
+    },
+    {
+        "name": "Amour Cake",
+        "category": "dessert",
+        "description": "Orange chocolate mousse combined with creme brulee and brownies.",
+        "price": 325,
+        "timesOrdered": 19,
+        "timesOrderedWeek": 1,
+        "timesOrderedToday": 0,
+        "image": "amour_cake.png",
+        "link": "https://lebalconbakery.com/product/lamore-cake/"
+    },
+    {
+        "name": "Macarons (Box of 8)",
+        "category": "dessert",
+        "description": "Assorted flavors of delicate macarons.",
+        "price": 595,
+        "timesOrdered": 15,
+        "timesOrderedWeek": 2,
+        "timesOrderedToday": 2,
+        "image": "macarons.png",
+        "link": "https://www.laduree.fr/en/napoleon-iii-assorted-8-macarons-gift-box-pink"
+    },
+    {
+        "name": "Champagne Cocktail",
+        "category": "beverage",
+        "description": "A classic mix of champagne with a hint of bitters and a sugar cube.",
+        "price": 600,
+        "timesOrdered": 12,
+        "timesOrderedWeek": 3,
+        "timesOrderedToday": 1,
+        "image": "champagne_cocktail.jpg",
+        "link": "https://handluggageonly.co.uk/2015/12/08/7-easy-champagne-cocktail-recipes-you-need-for-your-next-party/"
+    },
+    {
+        "name": "Mango Jubilee",
+        "category": "beverage",
+        "description": "A flambeed dessert drink featuring fresh mangoes and liqueur.",
+        "price": 500,
+        "timesOrdered": 12,
+        "timesOrderedWeek": 2,
+        "timesOrderedToday": 0,
+        "image": "mango_jubilee.jpg",
+        "link": "https://recipes.timesofindia.com/recipes/mango-jubilee/rs52502419.cms"
+    },
+    {
+        "name": "Signature House Blend Coffee",
+        "category": "beverage",
+        "description": "A rich and aromatic coffee blend, perfect after a meal.",
+        "price": 150,
+        "timesOrdered": 10,
+        "timesOrderedWeek": 4,
+        "timesOrderedToday": 1,
+        "image": "signature_house_blend_coffee.png",
+        "link": "https://dmcoffee.blog/a-roasters-guide-to-creating-the-best-house-blend-coffee/"
+    },
+    {
+        "name": "Fresh Buko Juice",
+        "category": "beverage",
+        "description": "Chilled coconut water served straight from the shell.",
+        "price": 115,
+        "timesOrdered": 93,
+        "timesOrderedWeek": 10,
+        "timesOrderedToday": 2,
+        "image": "fresh_buko_juice.jpg",
+        "link": "https://www.pinterest.com/pin/302304193708480719/"
+    }
+]
