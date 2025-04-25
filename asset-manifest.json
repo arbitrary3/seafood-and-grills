@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/seafood-and-grills/static/css/main.ff7228c1.css",
-    "main.js": "/seafood-and-grills/static/js/main.46765faa.js",
+    "main.css": "/seafood-and-grills/static/css/main.38b192fd.css",
+    "main.js": "/seafood-and-grills/static/js/main.089e38a9.js",
     "static/js/453.7ee4257d.chunk.js": "/seafood-and-grills/static/js/453.7ee4257d.chunk.js",
     "static/media/dinner.jpg": "/seafood-and-grills/static/media/dinner.05366e02301a4eea895b.jpg",
     "static/media/main.jpg": "/seafood-and-grills/static/media/main.f26acfdd1d63af063935.jpg",
@@ -23,12 +23,12 @@
     "static/media/fresh_buko_juice.jpg": "/seafood-and-grills/static/media/fresh_buko_juice.c178f5524712e7e62fca.jpg",
     "static/media/mango_jubilee.jpg": "/seafood-and-grills/static/media/mango_jubilee.eced1dab7a2c1e0939ff.jpg",
     "index.html": "/seafood-and-grills/index.html",
-    "main.ff7228c1.css.map": "/seafood-and-grills/static/css/main.ff7228c1.css.map",
-    "main.46765faa.js.map": "/seafood-and-grills/static/js/main.46765faa.js.map",
+    "main.38b192fd.css.map": "/seafood-and-grills/static/css/main.38b192fd.css.map",
+    "main.089e38a9.js.map": "/seafood-and-grills/static/js/main.089e38a9.js.map",
     "453.7ee4257d.chunk.js.map": "/seafood-and-grills/static/js/453.7ee4257d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff7228c1.css",
-    "static/js/main.46765faa.js"
+    "static/css/main.38b192fd.css",
+    "static/js/main.089e38a9.js"
   ]
 }
